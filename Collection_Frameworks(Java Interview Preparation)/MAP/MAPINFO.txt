@@ -1,0 +1,14 @@
+//In Map the data store in key values pair
+
+Key        values
+US-------->United States
+BR-------->Brazil
+ES-------->Spain
+
+In map the key have unique key for different data
+
+In development the hashmap and treemap are used more and linkedhashmap is simlar to hashmap but the linkedhashmap will link the address of the next data 
+To add the data in map we use put() method
+
+In treemap the data will settle based on key basis
+
